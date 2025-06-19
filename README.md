@@ -53,7 +53,8 @@ This portfolio showcases my **in-depth analysis** of the 2018 Central Park Squir
 ## 💻 How to Run
 
 ```bash
-git clone https://github.com/your-username/squirrel-census-project.git
+git clone https://github.com/GanrajB/squirrel-census-project.git
 cd squirrel-census-project
 open squirrel_analysis.ipynb  # or run in Spyder
 # squirrel-census-project
+
